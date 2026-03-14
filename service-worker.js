@@ -1,4 +1,4 @@
-const CACHE = 'spinvault-v5';
+const CACHE = 'spinvault-v6';
 const ASSETS = [
   '/spinvault/',
   '/spinvault/index.html',
